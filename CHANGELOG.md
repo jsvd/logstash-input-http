@@ -1,3 +1,6 @@
+## 3.3.8
+ - Update log4j dependency to 2.15.0
+
 ## 3.3.7
  - Feat: improved error handling/logging/unwraping [#133](https://github.com/logstash-plugins/logstash-input-http/pull/133)
  
